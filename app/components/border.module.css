@@ -1,0 +1,13 @@
+.text-with-border {
+    border: 1px solid black;
+    padding: 5px;
+  }
+.background {
+    background-color: lightblue;
+    border-radius: 1rem;
+    display:inline;
+    font-weight: bold;
+    
+    
+    
+}
